@@ -14,7 +14,7 @@ Welcome to my **personal portfolio website**! This website showcases my skills, 
 - **JavaScript**    
 
 ## 🔗 Live Demo  
-👉 **[View My Portfolio](https://your-portfolio-link.com)**  
+👉 **[View My Portfolio](https://deepika200315.github.io/Port-folio/#home)**  
 
 ## 📥 Installation  
 ```sh

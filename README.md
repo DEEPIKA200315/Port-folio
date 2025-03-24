@@ -11,10 +11,7 @@ Welcome to my **personal portfolio website**! This website showcases my skills, 
 ## 🛠️ Technologies Used  
 - **HTML**  
 - **CSS**  
-- **JavaScript**  
-
-## 📷 Preview  
-[![Portfolio Screenshot](img/portfolio-preview.png)](https://your-portfolio-link.com)  
+- **JavaScript**    
 
 ## 🔗 Live Demo  
 👉 **[View My Portfolio](https://your-portfolio-link.com)**  
